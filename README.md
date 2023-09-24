@@ -1,4 +1,6 @@
+<h1>Project Rule of Progression</h1>
 Java é uma das linguagens de programação mais populares, dentre outros aspectos, devido a sua portabilidade. No projeto "Regras de Progressão" foram exercitados conhecimentos iniciais sobre a linguagem e o seu universo de ferramentas, especificamente:
+
 - Uso consciente de tipos primitivos e não primitivos;
 - Manipulação de entrada e saída de dados;
 - Estruturas de repetição;
