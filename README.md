@@ -22,6 +22,7 @@ Neste projeto, foi implementada a classe `App`, localizada na pasta `src`, que c
 
 <details>
   <summary><h2>Funcionalidades</h2></summary>
+  
   - **Coleta de Notas**: Permite ao usuário cadastrar as avaliações, informando nome, peso e nota.
   - **Cálculo de Percentual**: Avalia a média ponderada das notas e determina a situação do aluno (aprovação ou reprovação) com base na pontuação mínima.
 </details>
