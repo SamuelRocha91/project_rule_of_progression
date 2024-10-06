@@ -22,6 +22,7 @@ In this project, the `App` class was implemented, located in the `src` folder, w
 
 <details>
   <summary><h2>Features</h2></summary>
+
   - **Grade Collection**: Allows the user to register assessments, providing name, weight, and grade.
   - **Percentage Calculation**: Evaluates the weighted average of grades and determines the student's status (pass or fail) based on the minimum score.
 </details>
@@ -39,6 +40,7 @@ In this project, the `App` class was implemented, located in the `src` folder, w
 
 <details>
   <summary><h2>Technologies Used</h2></summary>
+
   - **Java**: Main programming language.
   - **Spring Boot**: For building applications and REST APIs.
   - **Maven**: Java project management tool.
@@ -47,6 +49,7 @@ In this project, the `App` class was implemented, located in the `src` folder, w
 
 <details>
   <summary><h2>Other Projects</h2></summary>
+
   - 🗳️ [Voting System](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_en.md)
   - 🌱 [Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md)
   - 🏛️ [Museum Locator](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_en.md)
@@ -54,6 +57,7 @@ In this project, the `App` class was implemented, located in the `src` folder, w
 
 <details>
   <summary><h2>How to Run</h2></summary>
+  
   1. **Clone this repository** to your local machine:
      ```sh
      git clone https://github.com/SamuelRocha91/project_rule_of_progression.git

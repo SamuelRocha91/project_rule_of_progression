@@ -22,6 +22,7 @@ En este proyecto, se implementó la clase `App`, ubicada en la carpeta `src`, qu
 
 <details>
   <summary><h2>Características</h2></summary>
+
   - **Recopilación de Calificaciones**: Permite al usuario registrar las evaluaciones, proporcionando nombre, peso y calificación.
   - **Cálculo de Porcentaje**: Evalúa el promedio ponderado de las calificaciones y determina la situación del estudiante (aprobación o reprobación) en función de la puntuación mínima.
 </details>
@@ -39,6 +40,7 @@ En este proyecto, se implementó la clase `App`, ubicada en la carpeta `src`, qu
 
 <details>
   <summary><h2>Tecnologías Utilizadas</h2></summary>
+
   - **Java**: Lenguaje de programación principal.
   - **Spring Boot**: Para la construcción de aplicaciones y APIs REST.
   - **Maven**: Herramienta de gestión de proyectos Java.
@@ -47,6 +49,7 @@ En este proyecto, se implementó la clase `App`, ubicada en la carpeta `src`, qu
 
 <details>
   <summary><h2>Otros Proyectos</h2></summary>
+
   - 🗳️ [Sistema de Votación](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_es.md)
   - 🌱 [Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_es.md)
   - 🏛️ [Localizador de Museos](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_es.md)
@@ -54,6 +57,7 @@ En este proyecto, se implementó la clase `App`, ubicada en la carpeta `src`, qu
 
 <details>
   <summary><h2>Cómo Ejecutar</h2></summary>
+  
   1. **Clona este repositorio** en tu máquina local:
      ```sh
      git clone https://github.com/SamuelRocha91/project_rule_of_progression.git

@@ -22,6 +22,7 @@ Java 是最受欢迎的编程语言之一，以其可移植性和健壮性而闻
 
 <details>
   <summary><h2>功能</h2></summary>
+
   - **分数收集**：允许用户注册评估，输入名称、权重和分数。
   - **百分比计算**：评估分数的加权平均值，并根据最低分数确定学生的状态（通过或不通过）。
 </details>
@@ -39,6 +40,7 @@ Java 是最受欢迎的编程语言之一，以其可移植性和健壮性而闻
 
 <details>
   <summary><h2>使用技术</h2></summary>
+
   - **Java**：主要编程语言。
   - **Spring Boot**：用于构建应用程序和 REST API。
   - **Maven**：Java 项目管理工具。
@@ -47,6 +49,7 @@ Java 是最受欢迎的编程语言之一，以其可移植性和健壮性而闻
 
 <details>
   <summary><h2>其他项目</h2></summary>
+
   - 🗳️ [投票系统](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_ch.md)
   - 🌱 [Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_ch.md)
   - 🏛️ [博物馆定位器](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_ch.md)
@@ -54,6 +57,7 @@ Java 是最受欢迎的编程语言之一，以其可移植性和健壮性而闻
 
 <details>
   <summary><h2>如何运行</h2></summary>
+  
   1. **克隆此仓库**到您的本地计算机：
      ```sh
      git clone https://github.com/SamuelRocha91/project_rule_of_progression.git

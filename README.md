@@ -39,6 +39,7 @@ Neste projeto, foi implementada a classe `App`, localizada na pasta `src`, que c
 
 <details>
   <summary><h2>Tecnologias Utilizadas</h2></summary>
+
   - **Java**: Linguagem de programação principal.
   - **Spring Boot**: Para a construção de aplicações e APIs REST.
   - **Maven**: Ferramenta de gerenciamento de projetos Java.
@@ -47,13 +48,16 @@ Neste projeto, foi implementada a classe `App`, localizada na pasta `src`, que c
 
 <details>
   <summary><h2>Outros Projetos</h2></summary>
+
   - 🗳️ [Sistema de Votação](https://github.com/SamuelRocha91/sistemaDeVotacao)
   - 🌱 [Agrix](https://github.com/SamuelRocha91/Agrix)
   - 🏛️ [Localizador de Museus](https://github.com/SamuelRocha91/localizadorDeMuseus)
+  
 </details>
 
 <details>
   <summary><h2>Como Executar</h2></summary>
+  
   1. **Clone este repositório** em sua máquina local:
      ```sh
      git clone https://github.com/SamuelRocha91/project_rule_of_progression.git
