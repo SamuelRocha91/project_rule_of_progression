@@ -1,57 +1,68 @@
-# <img src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png" alt="Java Projects Logo" width="52" height="40" /> Project Rule of Progression <img src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png" alt="Java Projects Logo" width="52" height="40" />
+# <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java Projects Logo" width="42" height="30" /> Progression Rules Project <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java Projects Logo" width="42" height="30" />
 
-## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_es.md) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_en.md) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ru.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/project_rule_of_progression/project_rule_of_progression/blob/main/README_ch.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ar.md)
+## 🌐 
+[![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README.md) 
+[![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_es.md) 
+[![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_en.md) 
+[![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ru.md) 
+[![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ch.md) 
+[![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ar.md)
 
 ## Project Description
 
-Java is one of the most popular programming languages, renowned for its portability and robustness. In the "Rule of Progression" project, fundamental knowledge about Java and its tools was exercised, including:
+Java is one of the most popular programming languages, known for its portability and robustness. In the "Progression Rules" project, fundamental knowledge of the Java language and its tools was exercised, including:
 
 - Conscious use of primitive and non-primitive types.
-- Input and output data manipulation.
-- Control structures (loops and conditionals).
-- Utilizing JDK and Maven (MVN).
-- Development in IntelliJ IDEA.
+- Manipulation of input and output data.
+- Control structures and conditionals.
+- Use of JDK and Maven (MVN).
+- Development in IntelliJ IDEA.Se precisar de mais alguma coisa, é só avisar!
 
-In this project, the `App` class was implemented in the `src` folder, which contains a method responsible for collecting user information, along with another method for processing that data. The goal is to allow users to input the number of evaluations performed, their names, grades, and respective weights, thereby enabling the issuance of an approval or disapproval verdict.
+In this project, the `App` class was implemented, located in the `src` folder, which contains a method responsible for collecting user information, as well as a method for manipulating this data. The goal is to allow the user to enter the number of assessments performed, their names, grades, and respective weights, thus enabling the issuance of a pass or fail verdict.
 
-### Features
+<details>
+  <summary><h2>Features</h2></summary>
+  - **Grade Collection**: Allows the user to register assessments, providing name, weight, and grade.
+  - **Percentage Calculation**: Evaluates the weighted average of grades and determines the student's status (pass or fail) based on the minimum score.
+</details>
 
-- **Grade Collection**: Allows the user to register evaluations by providing names, weights, and grades.
-- **Percentage Calculation**: Evaluates the weighted average of grades and determines the student's status (approval or disapproval) based on the minimum score required.
+<details>
+  <summary><h2>Usage Example</h2></summary>
+  The code below illustrates how information is collected and processed:
+  
+  ```java
+  public static void collectGrades() {
+      // Logic for collecting and processing grades
+  }
+  ```
+</details>
 
-### Example Usage
+<details>
+  <summary><h2>Technologies Used</h2></summary>
+  - **Java**: Main programming language.
+  - **Spring Boot**: For building applications and REST APIs.
+  - **Maven**: Java project management tool.
+  - **IntelliJ IDEA**: IDE used for development.
+</details>
 
-The code below illustrates how information is collected and processed:
+<details>
+  <summary><h2>Other Projects</h2></summary>
+  - 🗳️ [Voting System](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_en.md)
+  - 🌱 [Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md)
+  - 🏛️ [Museum Locator](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_en.md)
+</details>
 
-```java
-public static void coletarNotas() {
-    // Logic for collecting and processing grades
-}
-```
+<details>
+  <summary><h2>How to Run</h2></summary>
+  1. **Clone this repository** to your local machine:
+     ```sh
+     git clone https://github.com/SamuelRocha91/project_rule_of_progression.git
+     ```
 
-## Technologies Used
+  2. **Navigate to the project directory**.
 
-- **Java**: The primary programming language.
-- **Spring Boot**: For building applications and REST APIs.
-- **Maven**: Project management tool for Java.
-- **IntelliJ IDEA**: IDE used for development.
-
-## Other Projects
-
-- 🗳️ [Voting System](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_en.md)
-- 🌱 [Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md)
-- 🏛️ [Museum Locator](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_en.md)
-
-## How to Run
-
-1. **Clone this repository** to your local machine:
-   ```sh
-   git clone https://github.com/SamuelRocha91/project_rule_of_progression.git
-   ```
-
-2. **Navigate to the project directory**.
-
-3. **Compile and run the application** using Maven:
-   ```sh
-   mvn spring-boot:run
-   ```
+  3. **Compile and run the application** using Maven:
+     ```sh
+     mvn spring-boot:run
+     ```
+</details>
